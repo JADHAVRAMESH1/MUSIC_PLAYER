@@ -1,1 +1,2 @@
-# MUSIC_PLAYER
+# Music-Player
+An application similar to spotify
